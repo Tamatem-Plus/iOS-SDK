@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TamatemPlus iOS SDK",
-            url: "https://github.com/Tamatem-Plus/iOS-SDK/releases/download/Version-1.0.0/TamatemPlus-iOS-SDK.xcframework.zip",
+            url: "https://github.com/Tamatem-Plus/iOS-SDK/releases/download/v1.0.0/TamatemPlus-iOS-SDK.xcframework.zip",
             checksum: "55b1a5eb2b60eda8a86069dff763318848de0c20a61193851d3613058e50e244"
         ),
     ]
